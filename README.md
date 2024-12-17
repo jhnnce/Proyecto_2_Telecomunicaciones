@@ -26,7 +26,6 @@ Seaborn
 
 ## Estructura del Proyecto
 
-Dataset/: Datasets del proyecto  
 Notebook/: Jupyter notebooks con el análisis.  
 Power Bi/: Archivos Power Bi interactivos del proyecto
 README.md: Documentación.  
